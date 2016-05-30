@@ -1,11 +1,7 @@
 由于未知原因导致包管理器出现问题，正在测试到底是哪里出现了奇怪的问题中。
 
-# Chinese Localization
-Simplified Chinese and Traditional Chinese Translation for Sublime Text 3. Support MainMenu TabMenu ContextMenu,etc.
 
-I try to support more languages. Now Japanese is partially supported.
-
-### Manual Install
+### 手动安装
 Clone this repository into `Sublime Text 3/Packages` using OS-appropriate location:
 
 OSX:
@@ -36,26 +32,6 @@ Or just download this repo as zip, rename it to `ChineseLocalization.sublime-pac
 - [ ] Help/Language/Japanese 日本語
 - [x] Help/Language/English
 
-
-### problems
-
-Now this problem has been solved at st3-1.6.0.
-
-~~Because almost every package has a `Main.sublime-menu`, So some package name maybe override the Default one.~~
-
-~~AFAIK, minimal manual delete including~~:
-
-+ **SublimeREPL** delete caption
-
-+ **Minify** Overwrite, but delete
-
-+ **Tag** delete mnemonic caption
-
-+ **Indent XML** delete caption Selection
-
-+ **HTMLBeautify** delete caption Edit
-
-+ **GraphvizPreview** delete caption Edit
 
 ### Author & Contributors
 - [Rexdf](https://github.com/rexdf)
