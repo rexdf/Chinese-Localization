@@ -1,3 +1,5 @@
+由于未知原因导致包管理器出现问题，正在测试到底是哪里出现了奇怪的问题中。
+
 # Chinese Localization
 Simplified Chinese and Traditional Chinese Translation for Sublime Text 3. Support MainMenu TabMenu ContextMenu,etc.
 
